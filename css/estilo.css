@@ -64,10 +64,11 @@ footer .navbar-nav a:hover {
 
 footer ul {
     list-style: none;
+    height: 100%;
 }
 
 footer ul li {
-    float: right;
+    /* float: right; */
     margin: 0 5px;
 }
 
@@ -148,6 +149,10 @@ h3 {
     -webkit-transform: rotate(30deg);
     transform: rotate(30deg);
     padding-left: 80px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
 }
 
 /* // Extra small devices (portrait phones, less than 576px) */
