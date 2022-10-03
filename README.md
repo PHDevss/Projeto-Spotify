@@ -1,5 +1,3 @@
-# Projeto-Spotify
- Desenvolvido no curso Domine Web - com Jamilton Damasceno
 <p align="center">
   <img src="https://user-images.githubusercontent.com/97169087/193473129-66f5b124-791a-4661-8730-c37bac36567c.png" alt="Spotify's logo"/>
 </p>
